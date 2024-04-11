@@ -1,7 +1,9 @@
 /*
-* IMPLEMENTATION GOT FROM: https://github.com/ChadLefort/beaglebone-dht/tree/master/src
-* REFER TO THE ORIGINAL FILES FOR MORE DETAILED INFORMATION
-* REQUIRED bbb_mmio.c/h
+* IMPLEMENTATION GOT FROM: 
+* https://github.com/adafruit/Adafruit_Python_DHT/blob/master/source/Beaglebone_Black/
+* AND IS PART OF ADAFRUIT's LIBRARY
+* MINOR REVISION WAS MADE TO THE ORIGINAL IMPLEMENTATION 
+* SO THAT IT CAN BE USED WITH OUR HARDWARE
 */
 #include <stdlib.h>
 #include <string.h>
